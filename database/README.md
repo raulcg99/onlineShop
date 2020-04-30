@@ -1,0 +1,1 @@
+Directorio el cual alberga el código de la base de datos que he utilizado, además de un modelo E-R para visualizarlo mejor.

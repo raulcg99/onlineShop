@@ -1,0 +1,1 @@
+Aqui se encuentran todas las variables y las constantes que he usado durante todos los archivos .php
